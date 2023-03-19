@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGM-Project-2/static/css/main.073c9b0a.css",
+    "main.js": "/LGM-Project-2/static/js/main.2a371048.js",
+    "static/js/787.c1112931.chunk.js": "/LGM-Project-2/static/js/787.c1112931.chunk.js",
+    "index.html": "/LGM-Project-2/index.html",
+    "main.073c9b0a.css.map": "/LGM-Project-2/static/css/main.073c9b0a.css.map",
+    "main.2a371048.js.map": "/LGM-Project-2/static/js/main.2a371048.js.map",
+    "787.c1112931.chunk.js.map": "/LGM-Project-2/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2a371048.js"
+  ]
+}
